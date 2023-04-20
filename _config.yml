@@ -1,5 +1,8 @@
 title: Slate theme
 description: Slate is a theme for GitHub Pages.
+url: 'https://brianmason2001.github.io/' # your main domain
+baseurl: 'falling/' # if you're using custom domain keep this blank example: baseurl: '
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
+
