@@ -2,3 +2,10 @@
 ---
 
 @import "jekyll-theme-slate";
+
+/* Custom styles for displaying GIFs */
+img[src$=".gif"] {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
