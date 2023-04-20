@@ -2,4 +2,4 @@
 layout: default
 ---
 
-{% include -includes/gifs.html %}
+{% include _includes/gifs.html %}
