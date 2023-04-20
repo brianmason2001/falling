@@ -2,4 +2,4 @@
 layout: default
 ---
 
-![Alt Text](/gifs/gif1.gif)
+![Alt Text]({{site.baseurl | prepend: site.url}/gifs/gif1.gif)
