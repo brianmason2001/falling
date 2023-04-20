@@ -2,4 +2,4 @@
 layout: default
 ---
 
-![Alt Text]({{site.baseurl | prepend: site.url}/gifs/gif1.gif)
+<img src="{{ "gifs/gif1.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GIF 1" />
