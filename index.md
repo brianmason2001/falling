@@ -2,4 +2,4 @@
 layout: default
 ---
 
-{% include gifs.html %}
+![Alt Text](/gifs/gif1.gif)
