@@ -1,8 +1,8 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
+title: 9 Glimpses
+description: These 9 Gifs show a small glimpse into my semester.
 url: 'https://brianmason2001.github.io/' # your main domain
 baseurl: 'falling/' # if you're using custom domain keep this blank example: baseurl: '
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
 
